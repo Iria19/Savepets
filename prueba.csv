@@ -1,0 +1,15 @@
+Model,Username,User_Country,User_Province,User_City,User_PostalCode,Numpublication,NumPublicationAdoption,NumPublicationHelp,NumPublicationStray,NumComment,UserAge,Work,Studies,Marital Status,Children,Housing,Other Pets,NumPets,Gender,Specie,Chip,Sex,Race,Age,State,AnimalShelter
+Animal,Paul,Argentina,León,Trujillo,32350,1907,160,1398,349,679,67,Frutero,Psicología,,20,detached house,cat,1,female,dog,unknown,unknow,Spaniel Azul de Picardía,2,dead, animalshelter
+Animal,admin,españa,Pontevedra,Desconocida,1,6,1,1,4,2,23,admin,admin,admin,1,admin,dog,3,,,,,,,, animalshelter
+Animal,admin,españa,Pontevedra,Desconocida,1,6,1,1,4,2,23,admin,admin,admin,1,admin,dog,3,,dog,no,unknow,caniche,4,unknown, animalshelter
+AnimalShelter,Joan,Argentina,León,Vigo,32352,1920,150,1300,200,630,67,Frutero,Psicología,single,15,flat,cat,1,male,dog,unknown,unknow,yorkshire,2,sick, animalshelter
+AnimalShelter,Pedro,Argentina,León,Trujillo,32340,1800,0,1800,0,0,60,Cocinero,Psicología,,20,detached house,cat,1,male,cat,unknown,unknow,persa,2,dead, animalshelter
+Animal,Maria,Francia,Valencia,Trujillo,32007,1,1,1,1,5,67,Repartidor,Ingenieria,single,2,flat,dog,9,male,dog,yes,male,caniche,4,sick, animalshelter
+Animal,Angelina,España,Madrid,Vigo,32350,0,0,0,0,2,18,Estudiante,Magisterio,relationship,0,flat,bunny,9,female,snake,no,male,boa,10,sick, animalshelter
+AnimalShelter,Iria,Alemania,Ourense,Ourense,34058,1907,1900,7,0,579,67,Panadero,Derecho,single,1,apartment,snake,11,male,dog,no,male,caniche,1,dead, animalshelter
+PublicationAdoption,Belen,España,Valencia,Trujillo,30000,10,0,0,10,480,67,Frutero,Magisterio,,15,apartment,cat,1,female,dog,yes,male,yorkshire,9,sick, animalshelter
+AnimalShelter,Lorena,Portugal,León,Vigo,50,25,25,0,349,679,67,Frutero,Psicología,,20,detached house,cat,1,female,dog,yes,male,yorkshire,3,sick, animalshelter
+Animal,Marta,Argentina,Valencia,Trujillo,32350,1907,160,1398,349,679,67,Panadero,,married,1,flat,snake,19,female,bunny,unknown,unknow,rex,12,dead, animalshelter
+AnimalShelter,Javier,Argentina,León,Trujillo,35008,1907,160,1398,349,679,67,Agricultor,,married,0,flat,dog,0,male,dog,unknown,unknow,Dalmata,7,unknown, animalshelter
+AnimalShelter,Gorge,Argentina,León,Ourense,32350,1000,900,34,39,5,60,Frutero,Psicología,,20,flat,cat,1,male,cat,unknown,male,persa,8,dead, animalshelter
+Animal,Jose,España,Madrid,Vigo,31650,19,7,10,3,22,24,Estudiante,Magisterio,single,0,apartment,bunny,2,female,bunny,yes,male,rex,6,sick, animalshelter
